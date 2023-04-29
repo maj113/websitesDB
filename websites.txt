@@ -942,14 +942,14 @@ https://overclock.net/
 https://alexa.com/
 https://hubspot.com/
 https://plos.org/
-
-
-
-
-
-
-
-
+https://opengl.org
+https://learnopengl.com
+https://vulkan.org/
+https://blogs.windows.com/windows-insider/2023/04/28/announcing-windows-11-insider-preview-build-25352/
+https://packagecontrol.io/
+https://www.sublimemerge.com/
+https://www.mesa3d.org/
+https://www.freedesktop.org/
 
 
 
