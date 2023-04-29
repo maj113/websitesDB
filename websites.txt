@@ -1,20 +1,20 @@
-https://pascalbakker.xyz/ #crash on 0.23.4aa
-https://ja.cob.land/ #crash on 0.23.4aa
-https://rohandebsarkar.github.io/ #crash on 0.23.4aa
-https://underdark.nl/ #crash on 0.23.4aa
-https://xubuntu.org/ #crash on 0.23.4aa
-https://iain.in/ #crash on 0.23.4aa
-https://cohan.dev/ #crash on 0.23.4aa
-https://www.buymeacoffee.com/ #crash on 0.23.4aa
-https://2021.typographics.com/ #crash on 0.23.4aa
-https://freeunitconverter.online/ #crash on 0.23.4aa
-https://quuxtodo.com/ #crash on 0.23.4aa
-https://dailymotion.com/ #crash on 0.23.4aa
-https://welt.de/ #crash on 0.23.4aa
-https://www.skype.com/en/ #crash on 0.23.4aa
-https://adobe.com/ #timeout on 0.23.4aa
-https://washingtonpost.com/ #timeout on 0.23.4aa
-https://mit.edu/ #timeout on 0.23.4aa
+https://ja.cob.land/ #crash on 0.23.4aj
+https://rohandebsarkar.github.io/ #crash on 0.23.4aj
+https://underdark.nl/ #crash on 0.23.4aj
+https://iain.in/ #crash on 0.23.4aj
+https://quuxtodo.com/ #crash on 0.23.4aj
+https://dailymotion.com/ #crash on 0.23.4aj
+https://welt.de/ #crash on 0.23.4aj
+https://www.skype.com/en/ #crash on 0.23.4aj
+https://adobe.com/ #timeout on 0.23.4aj
+https://washingtonpost.com/ #timeout on 0.23.4aj
+https://mit.edu/ #timeout on 0.23.4aj
+https://pascalbakker.xyz/
+https://xubuntu.org/ 
+https://cohan.dev/ 
+https://www.buymeacoffee.com/ 
+https://2021.typographics.com/ 
+https://freeunitconverter.online/ 
 https://legiblenews.com/
 https://notionbackups.com/
 https://tasos.ca/
