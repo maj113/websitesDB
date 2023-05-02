@@ -1,15 +1,17 @@
-https://ja.cob.land/ #crash on 0.23.4aj
-https://quuxtodo.com/ #crash on 0.23.4aj
-https://dailymotion.com/ #crash on 0.23.4aj
-https://welt.de/ #crash on 0.23.4aj
-https://www.skype.com/en/ #crash on 0.23.4aj
-https://0xedward.io/ #crash on 0.23.4ak
-https://consumer.huawei.com/lk/support/ #crash on 0.23.4al
 https://adobe.com/ #timeout on 0.23.4aj
 https://washingtonpost.com/ #timeout on 0.23.4aj
 https://mit.edu/ #timeout on 0.23.4aj
 https://www.amd.com/en.html #timeout on 0.23.4al
+https://ja.cob.land/ 
+https://quuxtodo.com/ 
+https://dailymotion.com/ 
+https://welt.de/ 
+https://www.skype.com/en/ 
+https://0xedward.io/ 
+https://detektywi.it/
 https://rohandebsarkar.github.io/
+https://consumer.huawei.com/lk/support/
+https://legacyupdate.net/
 https://iain.in/
 https://underdark.nl/
 https://pascalbakker.xyz/
@@ -989,3 +991,61 @@ https://www.netgear.com/
 https://circuitpython.org
 https://www.adafruitdaily.com
 https://www.anandtech.com/
+https://runyourown.social/
+https://1mbible.co/
+https://roopakv.com/
+https://tane.dev/
+https://arenzana.org/
+https://myfirstburn.com/
+https://abakada.org/
+https://causa-arcana.com/
+https://oyd.org.tr/
+https://trnck.dev/
+https://qdice.wtf/
+https://bigi.dev/
+https://alicegg.tech/
+https://beta.shodan.io/
+https://masterandstudent.com/
+https://frankwang.org/
+https://playxylo.com/
+https://daniel.do/
+https://koofr.eu/
+https://smallandmodern.com/
+https://john-millikin.com/
+https://gendocu.com/
+https://zenlaptops.com/
+https://silvernode.io/
+https://startpage.com/
+https://microsounds.github.io/
+https://kidola.lu/
+https://melody.dev/
+https://devopix.com/
+https://standupmaths.com/
+https://ionxsolutions.com/
+https://chrislaux.com/
+https://jakobeha.github.io/
+https://cpu-galaxy.at/
+https://slingex.xyz/
+https://voxelstorm.itch.io/
+https://blog.aawadia.dev/
+https://eruci.com/
+https://restofworld.org/
+https://derekenos.com/
+https://wreeper.top/
+https://craigslist.org/
+https://standardebooks.org/
+https://sorcery.ie/
+https://nuclear.js.org/
+https://postali.app/
+https://dsl.sk/
+https://foodpartners.us/
+https://mrmarketingmustache.com/
+https://securemessagingapps.com/
+https://nodeart.io/
+https://usefathom.com/
+https://unfrl.com/
+https://wiki.eth0.nl/
+https://play.arkanoid.online/
+https://domainr.com/
+https://relationalplayground.com/
+https://visakami.com/
