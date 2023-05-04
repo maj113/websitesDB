@@ -1,3 +1,4 @@
+https://funtech.si/si/ #crash on 0.23.5b 
 https://adobe.com/ #timeout on 0.23.4aj
 https://washingtonpost.com/ #timeout on 0.23.4aj
 https://mit.edu/ #timeout on 0.23.4aj
@@ -31,7 +32,6 @@ https://adaway.org/
 https://topjohnwu.github.io/Magisk/install.html
 https://www.a1.si/
 https://www.bigbang.si/
-https://funtech.si/si/
 https://katahiromz.web.fc2.com/
 https://anvilproject.org/
 https://t0.vc/
@@ -1054,3 +1054,14 @@ https://pine64.com/
 https://pine64eu.com/shop/
 https://rockpi.org/
 https://wiki.radxa.com
+https://www.logitech.com/
+https://www.logitechg.com/
+https://sourceforge.net/
+https://www.tp-link.com/
+https://www.gigabyte.com/
+https://protonaosp.org/
+https://paranoidandroid.co/
+https://crdroid.net/
+https://pixelos.net/
+https://www.digitaltrends.com/
+https://www.bzflag.org/
