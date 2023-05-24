@@ -1,8 +1,10 @@
-https://funtech.si/si/ #crash on 0.23.5b 
+https://funtech.si/si/ #timeout on 0.23.5e
 https://adobe.com/ #timeout on 0.23.4aj
 https://washingtonpost.com/ #timeout on 0.23.4aj
 https://mit.edu/ #timeout on 0.23.4aj
 https://www.amd.com/en.html #timeout on 0.23.4al
+https://www.electronics-tutorials.ws/ #timeout on 0.23.5k
+https://www.sophos.com/ # timeout on 0.23.5k
 https://ja.cob.land/ 
 https://quuxtodo.com/ 
 https://dailymotion.com/ 
@@ -1065,3 +1067,52 @@ https://crdroid.net/
 https://pixelos.net/
 https://www.digitaltrends.com/
 https://www.bzflag.org/
+https://gitee.com/
+https://gitea.io/en-us/
+https://www.zurnal24.si/
+https://www.dolby.com/
+https://www.aptx.com/
+https://dts.com/
+https://us.creative.com/
+https://www.ti.com/
+https://riscv.org/
+https://www.arm.com/
+https://www.xilinx.com/
+https://www.logicbricks.com/
+https://www.ascglobal.com/
+https://www.viczone.hk/
+https://www.knowres.com/
+https://ti.audax.si/
+#https://www.solidworks.com/
+https://www.prusa3d.com/
+https://ultimaker.com/software/ultimaker-cura/
+https://www.irfanview.com/
+https://www.steamdeck.com/en/
+https://zoro.to/
+https://www.crunchyroll.com/
+https://www.globo.com/
+https://www.hwinfo.com/
+https://www.aida64.com/
+https://www.cpuid.com/softwares/hwmonitor.html
+https://www.cpuid.com/
+https://www.theverge.com
+https://techdaily.ca/
+https://arstechnica.com/
+https://www.rollinghillsmissilesilo.com/explore
+https://llava-vl.github.io/
+https://huggingface.co/
+https://wiki.osdev.org/
+https://ironpython.net/
+https://blog.expta.com/
+https://ecl.ntt.com/en/
+https://vshred.com/
+https://discuss.python.org/
+https://www.pockettactics.com/
+https://page.onstove.com/
+https://pypi.org/
+https://magiskzip.com/
+https://pureinfotech.com/
+https://lunduke.substack.com/
+https://gen-i.si/
+https://www.zadovoljna.si/
+https://www.tomshardware.com/
